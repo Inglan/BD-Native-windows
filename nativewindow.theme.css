@@ -1,0 +1,19 @@
+/**
+ * @name Native Windows
+ * @author Inglan
+ * @version 1.0
+ * @description Native top bar that looks more like windows 10
+ */
+ 
+.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr {
+    height: 30px;
+}
+.winButtonClose-3Q8ZH5.winButton-3UMjdg.flexCenter-1Mwsxg.flex-3BkGQD.justifyCenter-rrurWZ.alignCenter-14kD11 {
+    zoom: 1.6;
+}
+.winButtonMinMax-3RsPUg.winButton-3UMjdg.flexCenter-1Mwsxg.flex-3BkGQD.justifyCenter-rrurWZ.alignCenter-14kD11 {
+    zoom: 1.6;
+}
+.wordmarkWindows-2dq6rw.wordmark-2u86JB {
+    zoom: 1.3;
+}
